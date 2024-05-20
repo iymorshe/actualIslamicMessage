@@ -8,11 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		8C02529A2BF193F10098FDA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C0252992BF193F10098FDA6 /* Assets.xcassets */; };
-		8C0252A02BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 8C02529F2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		8C0252A02BF193F20098FDA6 /* Islamic Message.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 8C02529F2BF193F20098FDA6 /* Islamic Message.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		8C0252A52BF193F20098FDA6 /* Messages.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8C0252A42BF193F20098FDA6 /* Messages.framework */; };
 		8C0252A82BF193F20098FDA6 /* MessagesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252A72BF193F20098FDA6 /* MessagesViewController.swift */; };
-		8C0252AB2BF193F20098FDA6 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 8C0252AA2BF193F20098FDA6 /* Base */; };
 		8C0252AD2BF193F30098FDA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8C0252AC2BF193F30098FDA6 /* Assets.xcassets */; };
+		8C0252CD2BF195A40098FDA6 /* ArabicAyah.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252B82BF195A40098FDA6 /* ArabicAyah.swift */; };
+		8C0252CF2BF195A40098FDA6 /* AyahCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BA2BF195A40098FDA6 /* AyahCell.swift */; };
+		8C0252D02BF195A40098FDA6 /* AyahDta.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BB2BF195A40098FDA6 /* AyahDta.swift */; };
+		8C0252D12BF195A40098FDA6 /* DataController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BC2BF195A40098FDA6 /* DataController.swift */; };
+		8C0252D22BF195A40098FDA6 /* fetchDummyData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BD2BF195A40098FDA6 /* fetchDummyData.swift */; };
+		8C0252D32BF195A40098FDA6 /* fetchedAyahModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BE2BF195A40098FDA6 /* fetchedAyahModel.swift */; };
+		8C0252D42BF195A40098FDA6 /* fetchQuran.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252BF2BF195A40098FDA6 /* fetchQuran.swift */; };
+		8C0252D52BF195A40098FDA6 /* GetQuran.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252C02BF195A40098FDA6 /* GetQuran.swift */; };
+		8C0252D62BF195A40098FDA6 /* normalizeArabic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252C22BF195A40098FDA6 /* normalizeArabic.swift */; };
+		8C0252D92BF195A40098FDA6 /* IslamicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252C72BF195A40098FDA6 /* IslamicView.swift */; };
+		8C0252DA2BF195A40098FDA6 /* QuranNetwork.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C0252C92BF195A40098FDA6 /* QuranNetwork.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,7 +42,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				8C0252A02BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex in Embed Foundation Extensions */,
+				8C0252A02BF193F20098FDA6 /* Islamic Message.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -40,14 +50,24 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		8C0252962BF193EF0098FDA6 /* actualIslamicMessage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = actualIslamicMessage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C0252962BF193EF0098FDA6 /* Islamic Messag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Islamic Messag.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C0252992BF193F10098FDA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		8C02529F2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "actualIslamicMessage MessagesExtension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8C02529F2BF193F20098FDA6 /* Islamic Message.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Islamic Message.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C0252A42BF193F20098FDA6 /* Messages.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Messages.framework; path = System/Library/Frameworks/Messages.framework; sourceTree = SDKROOT; };
 		8C0252A72BF193F20098FDA6 /* MessagesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessagesViewController.swift; sourceTree = "<group>"; };
-		8C0252AA2BF193F20098FDA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
 		8C0252AC2BF193F30098FDA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8C0252AE2BF193F30098FDA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C0252B82BF195A40098FDA6 /* ArabicAyah.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArabicAyah.swift; sourceTree = "<group>"; };
+		8C0252BA2BF195A40098FDA6 /* AyahCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AyahCell.swift; sourceTree = "<group>"; };
+		8C0252BB2BF195A40098FDA6 /* AyahDta.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AyahDta.swift; sourceTree = "<group>"; };
+		8C0252BC2BF195A40098FDA6 /* DataController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataController.swift; sourceTree = "<group>"; };
+		8C0252BD2BF195A40098FDA6 /* fetchDummyData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fetchDummyData.swift; sourceTree = "<group>"; };
+		8C0252BE2BF195A40098FDA6 /* fetchedAyahModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fetchedAyahModel.swift; sourceTree = "<group>"; };
+		8C0252BF2BF195A40098FDA6 /* fetchQuran.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = fetchQuran.swift; sourceTree = "<group>"; };
+		8C0252C02BF195A40098FDA6 /* GetQuran.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetQuran.swift; sourceTree = "<group>"; };
+		8C0252C22BF195A40098FDA6 /* normalizeArabic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = normalizeArabic.swift; sourceTree = "<group>"; };
+		8C0252C72BF195A40098FDA6 /* IslamicView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IslamicView.swift; sourceTree = "<group>"; };
+		8C0252C92BF195A40098FDA6 /* QuranNetwork.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuranNetwork.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,8 +95,8 @@
 		8C0252972BF193EF0098FDA6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				8C0252962BF193EF0098FDA6 /* actualIslamicMessage.app */,
-				8C02529F2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex */,
+				8C0252962BF193EF0098FDA6 /* Islamic Messag.app */,
+				8C02529F2BF193F20098FDA6 /* Islamic Message.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -100,20 +120,46 @@
 		8C0252A62BF193F20098FDA6 /* actualIslamicMessage MessagesExtension */ = {
 			isa = PBXGroup;
 			children = (
+				8C0252CA2BF195A40098FDA6 /* Data */,
+				8C0252C42BF195A40098FDA6 /* Services */,
 				8C0252A72BF193F20098FDA6 /* MessagesViewController.swift */,
-				8C0252A92BF193F20098FDA6 /* MainInterface.storyboard */,
 				8C0252AC2BF193F30098FDA6 /* Assets.xcassets */,
 				8C0252AE2BF193F30098FDA6 /* Info.plist */,
 			);
 			path = "actualIslamicMessage MessagesExtension";
 			sourceTree = "<group>";
 		};
+		8C0252C42BF195A40098FDA6 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				8C0252B82BF195A40098FDA6 /* ArabicAyah.swift */,
+				8C0252BA2BF195A40098FDA6 /* AyahCell.swift */,
+				8C0252BB2BF195A40098FDA6 /* AyahDta.swift */,
+				8C0252BC2BF195A40098FDA6 /* DataController.swift */,
+				8C0252BD2BF195A40098FDA6 /* fetchDummyData.swift */,
+				8C0252BE2BF195A40098FDA6 /* fetchedAyahModel.swift */,
+				8C0252BF2BF195A40098FDA6 /* fetchQuran.swift */,
+				8C0252C02BF195A40098FDA6 /* GetQuran.swift */,
+				8C0252C22BF195A40098FDA6 /* normalizeArabic.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		8C0252CA2BF195A40098FDA6 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				8C0252C72BF195A40098FDA6 /* IslamicView.swift */,
+				8C0252C92BF195A40098FDA6 /* QuranNetwork.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		8C0252952BF193EF0098FDA6 /* actualIslamicMessage */ = {
+		8C0252952BF193EF0098FDA6 /* Islamic Messag */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8C0252B52BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "actualIslamicMessage" */;
+			buildConfigurationList = 8C0252B52BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "Islamic Messag" */;
 			buildPhases = (
 				8C0252942BF193EF0098FDA6 /* Resources */,
 				8C0252B42BF193F30098FDA6 /* Embed Foundation Extensions */,
@@ -123,14 +169,14 @@
 			dependencies = (
 				8C0252A22BF193F20098FDA6 /* PBXTargetDependency */,
 			);
-			name = actualIslamicMessage;
+			name = "Islamic Messag";
 			productName = actualIslamicMessage;
-			productReference = 8C0252962BF193EF0098FDA6 /* actualIslamicMessage.app */;
+			productReference = 8C0252962BF193EF0098FDA6 /* Islamic Messag.app */;
 			productType = "com.apple.product-type.application.messages";
 		};
-		8C02529E2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension */ = {
+		8C02529E2BF193F20098FDA6 /* Islamic Message */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 8C0252B12BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "actualIslamicMessage MessagesExtension" */;
+			buildConfigurationList = 8C0252B12BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "Islamic Message" */;
 			buildPhases = (
 				8C02529B2BF193F20098FDA6 /* Sources */,
 				8C02529C2BF193F20098FDA6 /* Frameworks */,
@@ -140,9 +186,9 @@
 			);
 			dependencies = (
 			);
-			name = "actualIslamicMessage MessagesExtension";
+			name = "Islamic Message";
 			productName = "actualIslamicMessage MessagesExtension";
-			productReference = 8C02529F2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension.appex */;
+			productReference = 8C02529F2BF193F20098FDA6 /* Islamic Message.appex */;
 			productType = "com.apple.product-type.app-extension.messages";
 		};
 /* End PBXNativeTarget section */
@@ -163,7 +209,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 8C0252932BF193EF0098FDA6 /* Build configuration list for PBXProject "actualIslamicMessage" */;
+			buildConfigurationList = 8C0252932BF193EF0098FDA6 /* Build configuration list for PBXProject "Islamic Message" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -176,8 +222,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				8C0252952BF193EF0098FDA6 /* actualIslamicMessage */,
-				8C02529E2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension */,
+				8C0252952BF193EF0098FDA6 /* Islamic Messag */,
+				8C02529E2BF193F20098FDA6 /* Islamic Message */,
 			);
 		};
 /* End PBXProject section */
@@ -196,7 +242,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				8C0252AD2BF193F30098FDA6 /* Assets.xcassets in Resources */,
-				8C0252AB2BF193F20098FDA6 /* Base in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,7 +252,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8C0252D12BF195A40098FDA6 /* DataController.swift in Sources */,
+				8C0252D62BF195A40098FDA6 /* normalizeArabic.swift in Sources */,
+				8C0252D32BF195A40098FDA6 /* fetchedAyahModel.swift in Sources */,
+				8C0252D02BF195A40098FDA6 /* AyahDta.swift in Sources */,
+				8C0252CD2BF195A40098FDA6 /* ArabicAyah.swift in Sources */,
+				8C0252D42BF195A40098FDA6 /* fetchQuran.swift in Sources */,
+				8C0252D22BF195A40098FDA6 /* fetchDummyData.swift in Sources */,
+				8C0252D92BF195A40098FDA6 /* IslamicView.swift in Sources */,
+				8C0252DA2BF195A40098FDA6 /* QuranNetwork.swift in Sources */,
+				8C0252CF2BF195A40098FDA6 /* AyahCell.swift in Sources */,
 				8C0252A82BF193F20098FDA6 /* MessagesViewController.swift in Sources */,
+				8C0252D52BF195A40098FDA6 /* GetQuran.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,21 +272,10 @@
 /* Begin PBXTargetDependency section */
 		8C0252A22BF193F20098FDA6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 8C02529E2BF193F20098FDA6 /* actualIslamicMessage MessagesExtension */;
+			target = 8C02529E2BF193F20098FDA6 /* Islamic Message */;
 			targetProxy = 8C0252A12BF193F20098FDA6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		8C0252A92BF193F20098FDA6 /* MainInterface.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				8C0252AA2BF193F20098FDA6 /* Base */,
-			);
-			name = MainInterface.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		8C0252AF2BF193F30098FDA6 /* Debug */ = {
@@ -285,7 +330,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
@@ -342,7 +387,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
@@ -357,21 +402,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 55N9G92HC4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "actualIslamicMessage MessagesExtension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = actualIslamicMessage;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = bonito.actualIslamicMessage.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -383,21 +433,26 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 55N9G92HC4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "actualIslamicMessage MessagesExtension/Info.plist";
 				INFOPLIST_KEY_CFBundleDisplayName = actualIslamicMessage;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 					"@executable_path/../../Frameworks",
 				);
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = bonito.actualIslamicMessage.MessagesExtension;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -410,13 +465,14 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 55N9G92HC4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				MARKETING_VERSION = 1.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = bonito.actualIslamicMessage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -431,13 +487,14 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = 55N9G92HC4;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				MARKETING_VERSION = 1.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.8;
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = bonito.actualIslamicMessage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -449,7 +506,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		8C0252932BF193EF0098FDA6 /* Build configuration list for PBXProject "actualIslamicMessage" */ = {
+		8C0252932BF193EF0098FDA6 /* Build configuration list for PBXProject "Islamic Message" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8C0252AF2BF193F30098FDA6 /* Debug */,
@@ -458,7 +515,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8C0252B12BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "actualIslamicMessage MessagesExtension" */ = {
+		8C0252B12BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "Islamic Message" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8C0252B22BF193F30098FDA6 /* Debug */,
@@ -467,7 +524,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		8C0252B52BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "actualIslamicMessage" */ = {
+		8C0252B52BF193F30098FDA6 /* Build configuration list for PBXNativeTarget "Islamic Messag" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				8C0252B62BF193F30098FDA6 /* Debug */,
