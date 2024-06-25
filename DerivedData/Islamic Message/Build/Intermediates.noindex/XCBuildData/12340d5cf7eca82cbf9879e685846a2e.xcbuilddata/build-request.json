@@ -1,0 +1,68 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "274f39944ba62e7a1d4b014809b9dd91893e08498ec68d3a4ae22bf66db0da96"
+    },
+    {
+      "guid" : "274f39944ba62e7a1d4b014809b9dd9164830f7f6056095564ee8fa5c51e6a88"
+    }
+  ],
+  "containerPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Products",
+      "derivedDataPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone10,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone10,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "DF8A0814-6017-48A5-8450-760F818ECB77",
+          "TARGET_DEVICE_MODEL" : "iPhone10,5",
+          "TARGET_DEVICE_OS_VERSION" : "16.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

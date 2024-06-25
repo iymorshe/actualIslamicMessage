@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>029D58E2-32FB-48E6-A2AB-C8A057F50755</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>029D58E2-32FB-48E6-A2AB-C8A057F50755.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358836.64394605</real>
+			<key>timeStoppedRecording</key>
+			<real>738358839.71855199</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>029D58E2-32FB-48E6-A2AB-C8A057F50755</string>
+		</dict>
+		<key>2819E59A-B122-4A78-A450-DA64EBDB4573</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2819E59A-B122-4A78-A450-DA64EBDB4573.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>737868623.27653599</real>
+			<key>timeStoppedRecording</key>
+			<real>737868625.56944501</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>2819E59A-B122-4A78-A450-DA64EBDB4573</string>
+		</dict>
+		<key>31BA8C3D-BAFC-4395-983C-8AB1612494FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>31BA8C3D-BAFC-4395-983C-8AB1612494FE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358686.06814802</real>
+			<key>timeStoppedRecording</key>
+			<real>738358687.305884</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>31BA8C3D-BAFC-4395-983C-8AB1612494FE</string>
+		</dict>
+		<key>51EC74F1-3913-4426-997E-370475118234</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>51EC74F1-3913-4426-997E-370475118234.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358661.18909502</real>
+			<key>timeStoppedRecording</key>
+			<real>738358669.61109304</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>51EC74F1-3913-4426-997E-370475118234</string>
+		</dict>
+		<key>8249451F-9414-4CAE-8323-9DB7BDE4A250</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8249451F-9414-4CAE-8323-9DB7BDE4A250.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358742.382586</real>
+			<key>timeStoppedRecording</key>
+			<real>738358742.55217898</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>8249451F-9414-4CAE-8323-9DB7BDE4A250</string>
+		</dict>
+		<key>9DE7A366-1C87-4916-AFE1-4134468EA8F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9DE7A366-1C87-4916-AFE1-4134468EA8F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358930.47567201</real>
+			<key>timeStoppedRecording</key>
+			<real>738358934.35213494</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>9DE7A366-1C87-4916-AFE1-4134468EA8F9</string>
+		</dict>
+		<key>A55F7395-622F-43E2-897C-123EBC9F93A2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A55F7395-622F-43E2-897C-123EBC9F93A2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358835.03569603</real>
+			<key>timeStoppedRecording</key>
+			<real>738358835.21991897</real>
+			<key>title</key>
+			<string>Clean actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>A55F7395-622F-43E2-897C-123EBC9F93A2</string>
+		</dict>
+		<key>FC473AFC-857D-4679-A080-3E5F0A558F2C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FC473AFC-857D-4679-A080-3E5F0A558F2C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Islamic Message project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>actualIslamicMessage MessagesExtension</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>timeStartedRecording</key>
+			<real>738358671.92496002</real>
+			<key>timeStoppedRecording</key>
+			<real>738358676.59032404</real>
+			<key>title</key>
+			<string>Build actualIslamicMessage MessagesExtension</string>
+			<key>uniqueIdentifier</key>
+			<string>FC473AFC-857D-4679-A080-3E5F0A558F2C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

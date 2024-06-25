@@ -1,0 +1,138 @@
+{
+  "" : {
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/Islamic Message-master.dia",
+    "emit-module-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/Islamic Message-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/Islamic Message-master-emit-module.dia",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/Islamic Message-master.swiftdeps"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Data/IslamicView.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/IslamicView~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Data/QuranNetwork.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/QuranNetwork~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/MessagesViewController.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/MessagesViewController~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/ArabicAyah.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/ArabicAyah~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/AyahCell.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahCell~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/AyahDta.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/AyahDta~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/DataController.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/DataController~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/fetchDummyData.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchDummyData~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/fetchedAyahModel.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchedAyahModel~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/fetchQuran.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/fetchQuran~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/GetQuran.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/GetQuran~partial.swiftmodule"
+  },
+  "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message MessagesExtension/Services/normalizeArabic.swift" : {
+    "const-values" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.swiftconstvalues",
+    "dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.d",
+    "diagnostics" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.dia",
+    "index-unit-output-path" : "/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.o",
+    "llvm-bc" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.bc",
+    "object" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.o",
+    "swift-dependencies" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic.swiftdeps",
+    "swiftmodule" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex/Islamic Message.build/Debug-iphonesimulator/Islamic Message.build/Objects-normal/arm64/normalizeArabic~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'Islamic Messag' in project 'Islamic Message'
+➜ Explicit dependency on target 'Islamic Message' in project 'Islamic Message'
+Target 'Islamic Message' in project 'Islamic Message' (no dependencies)

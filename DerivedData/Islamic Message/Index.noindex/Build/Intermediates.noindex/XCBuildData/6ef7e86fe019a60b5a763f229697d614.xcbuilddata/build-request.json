@@ -1,0 +1,60 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "274f39944ba62e7a1d4b014809b9dd91893e08498ec68d3a4ae22bf66db0da96"
+    }
+  ],
+  "containerPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/Islamic Message.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Build/Products",
+      "pchPath" : "/Users/imanmorshed/Desktop/iOS projects/actualIslamicMessage/DerivedData/Islamic Message/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
