@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>Keyboard.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
 		<key>MyPlayground (Playground) 1.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -91,6 +96,11 @@
 			<true/>
 		</dict>
 		<key>8C02529E2BF193F20098FDA6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8CEBD01F2C2B8D55004BC6F1</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,0 +1,15 @@
+{
+  "originHash" : "22964a358f199a59ad16018a19f61c1a4d898478575a8b59a7883eda0dd9d62b",
+  "pins" : [
+    {
+      "identity" : "keyboardkitpro",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/KeyboardKit/KeyboardKitPro.git",
+      "state" : {
+        "revision" : "b8050db887b8498299c1c4f8191582a3a1f79ce5",
+        "version" : "8.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}

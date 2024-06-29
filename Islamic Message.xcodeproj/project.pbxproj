@@ -29,6 +29,20 @@
 		8CEBD02A2C2B8D55004BC6F1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0292C2B8D55004BC6F1 /* ContentView.swift */; };
 		8CEBD02C2C2B8D57004BC6F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CEBD02B2C2B8D57004BC6F1 /* Assets.xcassets */; };
 		8CEBD0302C2B8D57004BC6F1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CEBD02F2C2B8D57004BC6F1 /* Preview Assets.xcassets */; };
+		8CEBD03F2C2F940E004BC6F1 /* Keyboard.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 8CEBD0382C2F940E004BC6F1 /* Keyboard.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		8CEBD0462C2F9500004BC6F1 /* KeyboardKitPro in Frameworks */ = {isa = PBXBuildFile; productRef = 8CEBD0452C2F9500004BC6F1 /* KeyboardKitPro */; };
+		8CEBD0582C2F99BB004BC6F1 /* SymbolsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0552C2F99BB004BC6F1 /* SymbolsView.swift */; };
+		8CEBD0592C2F99BB004BC6F1 /* QuickPunctuationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0532C2F99BB004BC6F1 /* QuickPunctuationView.swift */; };
+		8CEBD05A2C2F99BB004BC6F1 /* LongPressDragSquareView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD04F2C2F99BB004BC6F1 /* LongPressDragSquareView.swift */; };
+		8CEBD05B2C2F99BB004BC6F1 /* LowercaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0512C2F99BB004BC6F1 /* LowercaseView.swift */; };
+		8CEBD05C2C2F99BB004BC6F1 /* CharacterPreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0492C2F99BB004BC6F1 /* CharacterPreview.swift */; };
+		8CEBD05D2C2F99BB004BC6F1 /* LongPressToDragView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0502C2F99BB004BC6F1 /* LongPressToDragView.swift */; };
+		8CEBD05E2C2F99BB004BC6F1 /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD04E2C2F99BB004BC6F1 /* KeyboardViewController.swift */; };
+		8CEBD05F2C2F99BB004BC6F1 /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD04D2C2F99BB004BC6F1 /* KeyboardView.swift */; };
+		8CEBD0602C2F99BB004BC6F1 /* UppercaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0562C2F99BB004BC6F1 /* UppercaseView.swift */; };
+		8CEBD0612C2F99BB004BC6F1 /* NumbersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0522C2F99BB004BC6F1 /* NumbersView.swift */; };
+		8CEBD0622C2F99BB004BC6F1 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD04A2C2F99BB004BC6F1 /* SwiftUIView.swift */; };
+		8CEBD0632C2F99BB004BC6F1 /* SharedModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CEBD0542C2F99BB004BC6F1 /* SharedModule.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +52,13 @@
 			proxyType = 1;
 			remoteGlobalIDString = 8C02529E2BF193F20098FDA6;
 			remoteInfo = "actualIslamicMessage MessagesExtension";
+		};
+		8CEBD03D2C2F940E004BC6F1 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8C0252902BF193EF0098FDA6 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8CEBD0372C2F940E004BC6F1;
+			remoteInfo = Keyboard;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -49,6 +70,17 @@
 			dstSubfolderSpec = 13;
 			files = (
 				8C0252A02BF193F20098FDA6 /* Islamic Message.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEBD0432C2F940E004BC6F1 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				8CEBD03F2C2F940E004BC6F1 /* Keyboard.appex in Embed Foundation Extensions */,
 			);
 			name = "Embed Foundation Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -82,6 +114,19 @@
 		8CEBD02B2C2B8D57004BC6F1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CEBD02D2C2B8D57004BC6F1 /* Islamic_Keyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Islamic_Keyboard.entitlements; sourceTree = "<group>"; };
 		8CEBD02F2C2B8D57004BC6F1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8CEBD0382C2F940E004BC6F1 /* Keyboard.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = Keyboard.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		8CEBD0492C2F99BB004BC6F1 /* CharacterPreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterPreview.swift; sourceTree = "<group>"; };
+		8CEBD04A2C2F99BB004BC6F1 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		8CEBD04D2C2F99BB004BC6F1 /* KeyboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
+		8CEBD04E2C2F99BB004BC6F1 /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
+		8CEBD04F2C2F99BB004BC6F1 /* LongPressDragSquareView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressDragSquareView.swift; sourceTree = "<group>"; };
+		8CEBD0502C2F99BB004BC6F1 /* LongPressToDragView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LongPressToDragView.swift; sourceTree = "<group>"; };
+		8CEBD0512C2F99BB004BC6F1 /* LowercaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowercaseView.swift; sourceTree = "<group>"; };
+		8CEBD0522C2F99BB004BC6F1 /* NumbersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumbersView.swift; sourceTree = "<group>"; };
+		8CEBD0532C2F99BB004BC6F1 /* QuickPunctuationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickPunctuationView.swift; sourceTree = "<group>"; };
+		8CEBD0542C2F99BB004BC6F1 /* SharedModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SharedModule.swift; sourceTree = "<group>"; };
+		8CEBD0552C2F99BB004BC6F1 /* SymbolsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymbolsView.swift; sourceTree = "<group>"; };
+		8CEBD0562C2F99BB004BC6F1 /* UppercaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UppercaseView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +142,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CEBD0462C2F9500004BC6F1 /* KeyboardKitPro in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEBD0352C2F940E004BC6F1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,6 +162,7 @@
 				8C0252982BF193EF0098FDA6 /* Islamic Message */,
 				8C0252A62BF193F20098FDA6 /* Islamic Message MessagesExtension */,
 				8CEBD0212C2B8D55004BC6F1 /* Islamic Keyboard */,
+				8CEBD0392C2F940E004BC6F1 /* Keyboard */,
 				8C0252A32BF193F20098FDA6 /* Frameworks */,
 				8C0252972BF193EF0098FDA6 /* Products */,
 			);
@@ -120,6 +174,7 @@
 				8C0252962BF193EF0098FDA6 /* Islamic Messag.app */,
 				8C02529F2BF193F20098FDA6 /* Islamic Message.appex */,
 				8CEBD0202C2B8D55004BC6F1 /* Islamic Keyboard.app */,
+				8CEBD0382C2F940E004BC6F1 /* Keyboard.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -199,6 +254,41 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
+		8CEBD0392C2F940E004BC6F1 /* Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				8CEBD04E2C2F99BB004BC6F1 /* KeyboardViewController.swift */,
+				8CEBD0572C2F99BB004BC6F1 /* SwiftUI Keyboard */,
+			);
+			path = Keyboard;
+			sourceTree = "<group>";
+		};
+		8CEBD04B2C2F99BB004BC6F1 /* Overlays */ = {
+			isa = PBXGroup;
+			children = (
+				8CEBD0492C2F99BB004BC6F1 /* CharacterPreview.swift */,
+				8CEBD04A2C2F99BB004BC6F1 /* SwiftUIView.swift */,
+			);
+			path = Overlays;
+			sourceTree = "<group>";
+		};
+		8CEBD0572C2F99BB004BC6F1 /* SwiftUI Keyboard */ = {
+			isa = PBXGroup;
+			children = (
+				8CEBD04B2C2F99BB004BC6F1 /* Overlays */,
+				8CEBD04D2C2F99BB004BC6F1 /* KeyboardView.swift */,
+				8CEBD04F2C2F99BB004BC6F1 /* LongPressDragSquareView.swift */,
+				8CEBD0502C2F99BB004BC6F1 /* LongPressToDragView.swift */,
+				8CEBD0512C2F99BB004BC6F1 /* LowercaseView.swift */,
+				8CEBD0522C2F99BB004BC6F1 /* NumbersView.swift */,
+				8CEBD0532C2F99BB004BC6F1 /* QuickPunctuationView.swift */,
+				8CEBD0542C2F99BB004BC6F1 /* SharedModule.swift */,
+				8CEBD0552C2F99BB004BC6F1 /* SymbolsView.swift */,
+				8CEBD0562C2F99BB004BC6F1 /* UppercaseView.swift */,
+			);
+			path = "SwiftUI Keyboard";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -243,15 +333,37 @@
 				8CEBD01C2C2B8D55004BC6F1 /* Sources */,
 				8CEBD01D2C2B8D55004BC6F1 /* Frameworks */,
 				8CEBD01E2C2B8D55004BC6F1 /* Resources */,
+				8CEBD0432C2F940E004BC6F1 /* Embed Foundation Extensions */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8CEBD03E2C2F940E004BC6F1 /* PBXTargetDependency */,
+			);
+			name = "Islamic Keyboard";
+			packageProductDependencies = (
+				8CEBD0452C2F9500004BC6F1 /* KeyboardKitPro */,
+			);
+			productName = "Islamic Keyboard";
+			productReference = 8CEBD0202C2B8D55004BC6F1 /* Islamic Keyboard.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8CEBD0372C2F940E004BC6F1 /* Keyboard */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8CEBD0402C2F940E004BC6F1 /* Build configuration list for PBXNativeTarget "Keyboard" */;
+			buildPhases = (
+				8CEBD0342C2F940E004BC6F1 /* Sources */,
+				8CEBD0352C2F940E004BC6F1 /* Frameworks */,
+				8CEBD0362C2F940E004BC6F1 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Islamic Keyboard";
-			productName = "Islamic Keyboard";
-			productReference = 8CEBD0202C2B8D55004BC6F1 /* Islamic Keyboard.app */;
-			productType = "com.apple.product-type.application";
+			name = Keyboard;
+			productName = Keyboard;
+			productReference = 8CEBD0382C2F940E004BC6F1 /* Keyboard.appex */;
+			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
 
@@ -272,6 +384,9 @@
 					8CEBD01F2C2B8D55004BC6F1 = {
 						CreatedOnToolsVersion = 16.0;
 					};
+					8CEBD0372C2F940E004BC6F1 = {
+						CreatedOnToolsVersion = 16.0;
+					};
 				};
 			};
 			buildConfigurationList = 8C0252932BF193EF0098FDA6 /* Build configuration list for PBXProject "Islamic Message" */;
@@ -283,6 +398,9 @@
 				Base,
 			);
 			mainGroup = 8C02528F2BF193EF0098FDA6;
+			packageReferences = (
+				8CEBD0442C2F9500004BC6F1 /* XCRemoteSwiftPackageReference "KeyboardKitPro" */,
+			);
 			productRefGroup = 8C0252972BF193EF0098FDA6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -290,6 +408,7 @@
 				8C0252952BF193EF0098FDA6 /* Islamic Messag */,
 				8C02529E2BF193F20098FDA6 /* Islamic Message */,
 				8CEBD01F2C2B8D55004BC6F1 /* Islamic Keyboard */,
+				8CEBD0372C2F940E004BC6F1 /* Keyboard */,
 			);
 		};
 /* End PBXProject section */
@@ -317,6 +436,13 @@
 			files = (
 				8CEBD0302C2B8D57004BC6F1 /* Preview Assets.xcassets in Resources */,
 				8CEBD02C2C2B8D57004BC6F1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8CEBD0362C2F940E004BC6F1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -353,6 +479,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		8CEBD0342C2F940E004BC6F1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8CEBD0582C2F99BB004BC6F1 /* SymbolsView.swift in Sources */,
+				8CEBD0592C2F99BB004BC6F1 /* QuickPunctuationView.swift in Sources */,
+				8CEBD05A2C2F99BB004BC6F1 /* LongPressDragSquareView.swift in Sources */,
+				8CEBD05B2C2F99BB004BC6F1 /* LowercaseView.swift in Sources */,
+				8CEBD05C2C2F99BB004BC6F1 /* CharacterPreview.swift in Sources */,
+				8CEBD05D2C2F99BB004BC6F1 /* LongPressToDragView.swift in Sources */,
+				8CEBD05E2C2F99BB004BC6F1 /* KeyboardViewController.swift in Sources */,
+				8CEBD05F2C2F99BB004BC6F1 /* KeyboardView.swift in Sources */,
+				8CEBD0602C2F99BB004BC6F1 /* UppercaseView.swift in Sources */,
+				8CEBD0612C2F99BB004BC6F1 /* NumbersView.swift in Sources */,
+				8CEBD0622C2F99BB004BC6F1 /* SwiftUIView.swift in Sources */,
+				8CEBD0632C2F99BB004BC6F1 /* SharedModule.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -360,6 +505,11 @@
 			isa = PBXTargetDependency;
 			target = 8C02529E2BF193F20098FDA6 /* Islamic Message */;
 			targetProxy = 8C0252A12BF193F20098FDA6 /* PBXContainerItemProxy */;
+		};
+		8CEBD03E2C2F940E004BC6F1 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8CEBD0372C2F940E004BC6F1 /* Keyboard */;
+			targetProxy = 8CEBD03D2C2F940E004BC6F1 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -669,6 +819,58 @@
 			};
 			name = Release;
 		};
+		8CEBD0412C2F940E004BC6F1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 55N9G92HC4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Keyboard/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Keyboard;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "bonito.Islamic-Keyboard.Keyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8CEBD0422C2F940E004BC6F1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 55N9G92HC4;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Keyboard/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Keyboard;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "bonito.Islamic-Keyboard.Keyboard";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -708,7 +910,35 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		8CEBD0402C2F940E004BC6F1 /* Build configuration list for PBXNativeTarget "Keyboard" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8CEBD0412C2F940E004BC6F1 /* Debug */,
+				8CEBD0422C2F940E004BC6F1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		8CEBD0442C2F9500004BC6F1 /* XCRemoteSwiftPackageReference "KeyboardKitPro" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/KeyboardKit/KeyboardKitPro.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 8.7.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		8CEBD0452C2F9500004BC6F1 /* KeyboardKitPro */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 8CEBD0442C2F9500004BC6F1 /* XCRemoteSwiftPackageReference "KeyboardKitPro" */;
+			productName = KeyboardKitPro;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		8CEBD0262C2B8D55004BC6F1 /* Islamic_Keyboard.xcdatamodeld */ = {
